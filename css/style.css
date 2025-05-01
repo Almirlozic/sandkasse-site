@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: #591C21;
+    display: flex;
+    justify-content: space-between;
+    color: #ffff;
+    height: 60px;
+    padding-left: 15px;
+}
+header :hover{
+    border-bottom: 1px solid white;
+}
+.navn {
+    align-self: center;
+    font-size: 1rem;
+    font-weight: 100;
+}
+.logo{
+    align-self: center; 
+}
+.menuknap {
+    align-self: center;
+    padding-right: 1rem;
+    text-decoration: none;
+    color: #ffff;
+}
