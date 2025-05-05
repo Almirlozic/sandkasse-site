@@ -1,0 +1,37 @@
+
+@font-face {
+    font-family: open sans;
+    src: url(../fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+@font-face {
+    font-family: tinos ;
+    src: url(../fonts/Tinos//Tinos-Regular.ttf);
+}
+
+
+
+
+
+
+
+
+h1, h2, h3{
+    font-family: tinos ;
+}
+h1, h2, h3, p{
+    color: #591c21;
+}
+h1{
+    font-size: 3em;
+}
+h2{
+    font-size: 2em;
+}
+p{
+    font-size: 1em;
+    font-family: open sans;
+}
+.headernavn{
+    color: #ffff;
+    font-size: 1em;
+}
